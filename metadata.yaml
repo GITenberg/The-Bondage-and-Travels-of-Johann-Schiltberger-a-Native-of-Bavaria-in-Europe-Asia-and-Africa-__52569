@@ -1,5 +1,5 @@
 _repo: The-Bondage-and-Travels-of-Johann-Schiltberger-a-Native-of-Bavaria-in-Europe-Asia-and-Africa-__52569
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Reisebuch. English
 contributor:
   translator:
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1907
     gutenberg_agent_id: '46931'
     url: http://www.gutenberg.org/2009/agents/46931
+covers:
+- cover_type: archival
+  image_path: 52569-h/images/cover.jpg
 creator:
   author:
     agent_name: Schiltberger, Johannes
@@ -25,6 +28,8 @@ creator:
     gutenberg_agent_id: '42660'
     url: http://www.gutenberg.org/2009/agents/42660
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52569#The-Bondage-and-Travels-of-Johann-Schiltberger-a-Native-of-Bavaria-in-Europe-Asia-and-Africa-_
 gutenberg_issued: '2016-07-12'
 gutenberg_type: Text
 identifiers:
